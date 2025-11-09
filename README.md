@@ -148,5 +148,5 @@ Friendly behavior when OpenAI billing/quota is not active (no hard failures)
 🧑‍💻 Author
 
 Yanming Luo
-UC Davis · Computer Science · Class of 2025
+UC Davis · Computer Science
 GitHub: @Yanming99
